@@ -2,10 +2,10 @@
 Simple message board on react-native android, using firebase.
 
 ## Outline
-![](img/Login.jpg =100x)
-![](img/Forget_password.jpg =100x)
-![](img/Register.jpg =100x)
-![](img/Msg_board.jpg =100x)
+<img src="img/Login.jpg" alt="drawing" width="200"/>
+<img src="img/Forget_password.jpg" alt="drawing" width="200"/>
+<img src="img/Register.jpg" alt="drawing" width="200"/>
+<img src="img/Msg_board.jpg" alt="drawing" width="200"/>
 
 ## Getting started
 <b>Remember to set your own `firebaseConfig.js` under the "Message-board-master" folder first.</b><br/>
